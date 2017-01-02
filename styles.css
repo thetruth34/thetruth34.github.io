@@ -1,0 +1,21 @@
+html, body {
+	font-size: 20px;
+	font-family: arial;
+}
+
+div{
+	    position: absolute;
+    height: 107px;
+    width: 100px;
+    background-color: #cc4040;
+    left: 50%;
+    top: 25%;
+}
+
+
+.square 
+{
+	background-color: blue;
+	left:0;
+	font-size: 23px;
+}
